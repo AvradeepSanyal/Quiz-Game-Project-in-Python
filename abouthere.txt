@@ -1,0 +1,3 @@
+understanding log:
+1. we dont have to change answer variable multiple times as its value keep changing coz of input
+2. line 41, did string concat after making score a string with string
